@@ -43,6 +43,6 @@ public class calculadora {
 			}
 		} while (opc == 0);
 
-		System.out.println("... FIM");
+		System.out.println("... FIM !");
 	}
 }
